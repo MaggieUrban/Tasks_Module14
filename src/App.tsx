@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useState } from "react";
 import "./App.css";
 import { Card } from "./Card";
-import { data } from "./data.js";
+import { data } from "./data/data";
 import { Buttons } from "./Buttons";
 import { UserName } from "./UserName";
 

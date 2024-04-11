@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-, "src/data.js"  ]
+, "src/data/data.js", "data.js"  ]
 }
