@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MaggieUrban.github.io/Tasks_Module14/static/css/main.9f68c18b.css",
-    "main.js": "/MaggieUrban.github.io/Tasks_Module14/static/js/main.ff1ede7a.js",
-    "static/js/453.6ae2e06b.chunk.js": "/MaggieUrban.github.io/Tasks_Module14/static/js/453.6ae2e06b.chunk.js",
-    "index.html": "/MaggieUrban.github.io/Tasks_Module14/index.html",
-    "main.9f68c18b.css.map": "/MaggieUrban.github.io/Tasks_Module14/static/css/main.9f68c18b.css.map",
-    "main.ff1ede7a.js.map": "/MaggieUrban.github.io/Tasks_Module14/static/js/main.ff1ede7a.js.map",
-    "453.6ae2e06b.chunk.js.map": "/MaggieUrban.github.io/Tasks_Module14/static/js/453.6ae2e06b.chunk.js.map"
+    "main.css": "/Tasks_Module14/static/css/main.9f68c18b.css",
+    "main.js": "/Tasks_Module14/static/js/main.8396dbd0.js",
+    "static/js/453.6ae2e06b.chunk.js": "/Tasks_Module14/static/js/453.6ae2e06b.chunk.js",
+    "index.html": "/Tasks_Module14/index.html",
+    "main.9f68c18b.css.map": "/Tasks_Module14/static/css/main.9f68c18b.css.map",
+    "main.8396dbd0.js.map": "/Tasks_Module14/static/js/main.8396dbd0.js.map",
+    "453.6ae2e06b.chunk.js.map": "/Tasks_Module14/static/js/453.6ae2e06b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f68c18b.css",
-    "static/js/main.ff1ede7a.js"
+    "static/js/main.8396dbd0.js"
   ]
 }
